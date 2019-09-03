@@ -1,1 +1,1 @@
-# extended-euclidean-algorithm
+# COMP90043-Assignment-1
